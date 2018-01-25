@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>Dark Mode: On</string>
+    <key>DARK_MODE_OFF</key>
+    <string>Dark Mode: Off</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>Night Shift: On</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>Night Shift: Off</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>AirPlay\nMirroring</string>
+    <key>AIRDROP_OFF</key>
+    <string>AirDrop:\nReceiving Off</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>AirDrop:\nContacts Only</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>AirDrop:\nEveryone</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>Receiving Off</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>Contacts Only</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>Everyone</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>You can be discoverable in AirDrop to receive from everyone or only people in your contacts.</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>You can be discoverable in AirDrop to receive from everyone or only people in your contacts.</string>
+</dict>
