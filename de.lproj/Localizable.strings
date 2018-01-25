@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>Dunkelmodus: An</string>
+    <key>DARK_MODE_OFF</key>
+    <string>Dunkelmodus: Aus</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>Night Shift: An</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>Night Shift: Aus</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>Bildschirmsyncronisierung</string>
+    <key>AIRDROP_OFF</key>
+    <string>AirDrop:\nEmpfangen aus</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>AirDrop:\nNur Kontakte</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>AirDrop:\nJeder</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>Empfangen aus</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>Nur Kontakte</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>Jeder</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>Du kannst sichtbar werden um von Kontakten oder von jedem zu empfangen.</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>Du kannst sichtbar werden um von Kontakten oder von jedem zu empfangen.</string>
+</dict>
