@@ -7,7 +7,7 @@
 	<key>AIRDROP_EVERYONE</key>
 	<string>AirDrop:\nДля всех</string>
 	<key>AIRDROP_MENU_CANCEL</key>
-	<string>Вы можете сделать свое обнаружение в AirDrop возможным и получать файлы от всех пользователей или только от пользователей в своих контактах.</string>
+	<string>Отмена</string>
 	<key>AIRDROP_MENU_CONTACTS</key>
 	<string>Только для контактов</string>
 	<key>AIRDROP_MENU_EVERYONE</key>
