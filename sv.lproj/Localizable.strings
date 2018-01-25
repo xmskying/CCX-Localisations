@@ -24,5 +24,5 @@
     <key>AIRDROP_MENU_TITLE</key>
     <string>Du kan upptäckas i AirDrop för att ta emot från alla eller bara från personer i dina kontakter.</string>
     <key>AIRDROP_MENU_CANCEL</key>
-    <string>Du kan upptäckas i AirDrop för att ta emot från alla eller bara från personer i dina kontakter.</string>
+    <string>Annullera</string>
 </dict>
