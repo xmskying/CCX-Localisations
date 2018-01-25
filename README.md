@@ -5,7 +5,15 @@ Fork this repository and create a new folder with the name language.lproj where 
 
 Eg: en-GB.lproj.
 
-Then copy the Localisations.strings folder in en.lproj into your new language folder. Translate all the text that is encased with <string></string>. The <key></key> lines are the language keys and they must not be changed.
+Then copy the Localisations.strings folder in en.lproj into your new language folder. Translate all the text that is masked as strings. The key marked lines are the language keys and they must not be changed.
+
+##Example:
+
+    <dict>
+        <key>DARK_MODE_ON</key> <-- DO NOT TRANSLATE
+        <string>Dark Mode: On</string> <-- TRANSLATE
+    </dict>
+
 
 Then once translated submit a pull request.
 
