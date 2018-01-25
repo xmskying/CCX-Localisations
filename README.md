@@ -7,6 +7,8 @@ Eg: en-GB.lproj.
 
 Then copy the Localisations.strings folder in en.lproj into your new language folder. Translate all the text that is masked as strings. The key marked lines are the language keys and they must not be changed.
 
+<h1>Do not remove the "\n"</h1>
+
 <h3>Example:</h3>
 
     <dict>
