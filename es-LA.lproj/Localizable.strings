@@ -1,28 +1,28 @@
 <dict>
     <key>DARK_MODE_ON</key>
-    <string>Modo Nocturno: Activado</string>
+    <string>Modo Nocturno: Sí</string>
     <key>DARK_MODE_OFF</key>
-    <string>Modo Nocturno: Desactivado</string>
+    <string>Modo Nocturno: No</string>
     <key>NIGHT_SHIFT_ON</key>
-    <string>Night Shift: Encendido</string>
+    <string>Night Shift: Sí</string>
     <key>NIGHT_SHIFT_OFF</key>
-    <string>Night Shift: Apagado</string>
+    <string>Night Shift: No</string>
     <key>AIRPLAY_MIRRORING</key>
-    <string>AirPlay\nMirroring</string>
+    <string>AirPlay\nDuplicando</string>
     <key>AIRDROP_OFF</key>
-    <string>AirDrop:\nRecepción Encendida</string>
+    <string>AirDrop:\nNo Recibir</string>
     <key>AIRDROP_CONTACTS</key>
     <string>AirDrop:\nSólo Contactos</string>
     <key>AIRDROP_EVERYONE</key>
-    <string>AirDrop:\nCualquiera</string>
+    <string>AirDrop:\nTodos</string>
     <key>AIRDROP_MENU_OFF</key>
-    <string>Recepción Apagada</string>
+    <string>No Recibir</string>
     <key>AIRDROP_MENU_CONTACTS</key>
     <string>Sólo Contactos</string>
     <key>AIRDROP_MENU_EVERYONE</key>
-    <string>Cualquiera</string>
+    <string>Todos</string>
     <key>AIRDROP_MENU_TITLE</key>
-    <string>Serás visible en AirDrop y estarás disponible para recibir de cualquier persona o tus contactos.</string>
+    <string>Puedes ser visible en AirDrop para recibir elementos de todos o sólo de tus contactos.</string>
     <key>AIRDROP_MENU_CANCEL</key>
-    <string>Annuler</string>
+    <string>Cancelar</string>
 </dict>
