@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>Mörkt läge: På</string>
+    <key>DARK_MODE_OFF</key>
+    <string>Mörkt läge: Av</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>Night Shift: På</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>Night Shift: Av</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>AirPlay\nSpegling</string>
+    <key>AIRDROP_OFF</key>
+    <string>AirDrop:\nMottagning Av</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>AirDrop:\nEndast Kontakter</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>AirDrop:\nAlla</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>Mottagning Av</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>Endast Kontakter</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>Alla</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>Du kan upptäckas i AirDrop för att ta emot från alla eller bara från personer i dina kontakter.</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>Du kan upptäckas i AirDrop för att ta emot från alla eller bara från personer i dina kontakter.</string>
+</dict>
