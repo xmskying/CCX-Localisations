@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>الوضع الداكن: مشغل</string>
+    <key>DARK_MODE_OFF</key>
+    <string>الوضع الداكن: متوقف</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>النضام الليلي: مشغل</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>النضام الليلي: متوقف</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>البث الهوائي\nبث الشاشة</string>
+    <key>AIRDROP_OFF</key>
+    <string>البث الهوائي:\nالتلقي متوقف</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>البث الهوائي:\nجهات الاتصال المعلومة فقط</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>البث الهوائي:\nالجميع</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>التلقي متوقف</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>جهات الاتصال المعلومة فقط</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>الجميع</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>يمكنم كشف جهازك عبر البث الهوائي للاستلام من الجميع او من جهات الاتصال المعلومة فقط</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>يمكنم كشف جهازك عبر البث الهوائي للاستلام من الجميع او من جهات الاتصال المعلومة فقط</string>
+</dict>
