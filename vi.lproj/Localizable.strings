@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>Giao diện đen (Dark Mode): Bật</string>
+    <key>DARK_MODE_OFF</key>
+    <string>Giao diện đen (Dark Mode): Tắt</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>Chế độ ban đêm (Night Shift): Bật</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>Chế độ ban đêm (Night Shift): Tắt</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>Phản chiếu màn hình\n(AirPlay)</string>
+    <key>AIRDROP_OFF</key>
+    <string>AirDrop:\nKhông Nhận</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>AirDrop:\nChỉ Danh Bạ</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>AirDrop:\nMọi Người</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>Không Nhận</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>Chỉ Danh Bạ</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>Mọi Người</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>Bạn có thể được phát hiện trong AirDrop để nhận từ mọi người hay chỉ từ những người trong danh bạ của bạn.</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>Bạn có thể được phát hiện trong AirDrop để nhận từ mọi người hay chỉ từ những người trong danh bạ của bạn.</string>
+</dict>
