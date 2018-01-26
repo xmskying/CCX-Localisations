@@ -1,0 +1,31 @@
+Code  Issues 0  Pull requests 1  Pulse
+en.lproj/Localizable.strings
+
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>Dark Mode: Ενεργό</string>
+    <key>DARK_MODE_OFF</key>
+    <string>Dark Mode: Ανενεργό</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>Night Shift: Ενεργό</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>Night Shift: Ανενεργό</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>Κατοπτρισμός\nAirPlay</string>
+    <key>AIRDROP_OFF</key>
+    <string>AirDrop:\nχωρίς λήψη</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>AirDrop:\nεπαφές μόνο</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>AirDrop:\nόλοι</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>Λήψη ανενεργή</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>Επαφές μόνο</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>Όλοι</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>Μπορείτε να κάνετε τον λογαριασμό σας ανακαλύψιμο στο AirDrop για λήψη από όλους ή μόνο από άτομα που περιλαμβάνονται στις επαφές σας.</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>Μπορείτε να κάνετε τον λογαριασμό σας ανακαλύψιμο στο AirDrop για λήψη από όλους ή μόνο από άτομα που περιλαμβάνονται στις επαφές σας.</string>
+</dict>
