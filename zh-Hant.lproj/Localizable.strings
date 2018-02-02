@@ -1,0 +1,28 @@
+<dict>
+    <key>DARK_MODE_ON</key>
+    <string>黑夜模式: 開</string>
+    <key>DARK_MODE_OFF</key>
+    <string>黑夜模式: 關</string>
+    <key>NIGHT_SHIFT_ON</key>
+    <string>夜覽模式: 開</string>
+    <key>NIGHT_SHIFT_OFF</key>
+    <string>夜覽模式: 關</string>
+    <key>AIRPLAY_MIRRORING</key>
+    <string>隔空投放\n鏡像</string>
+    <key>AIRDROP_OFF</key>
+    <string>隔空投放:\n接收關閉</string>
+    <key>AIRDROP_CONTACTS</key>
+    <string>隔空投放:\n僅聯系人</string>
+    <key>AIRDROP_EVERYONE</key>
+    <string>隔空投放:\n所有人</string>
+    <key>AIRDROP_MENU_OFF</key>
+    <string>接收關閉</string>
+    <key>AIRDROP_MENU_CONTACTS</key>
+    <string>僅限聯系人</string>
+    <key>AIRDROP_MENU_EVERYONE</key>
+    <string>所有人</string>
+    <key>AIRDROP_MENU_TITLE</key>
+    <string>你可以在隔空投放中被發現，以便接收來自所有人或僅聯系人發來的文件。</string>
+    <key>AIRDROP_MENU_CANCEL</key>
+    <string>取消</string>
+</dict>
